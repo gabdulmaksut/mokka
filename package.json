@@ -1,0 +1,22 @@
+{
+  "name": "mokka",
+  "version": "1.0.0",
+  "description": "mokka",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabdulmaksut/mokka.git"
+  },
+  "author": "Aida Gabdulmaksut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabdulmaksut/mokka/issues"
+  },
+  "homepage": "https://github.com/gabdulmaksut/mokka#readme",
+  "devDependencies": {
+    "cypress": "^6.0.0"
+  }
+}
